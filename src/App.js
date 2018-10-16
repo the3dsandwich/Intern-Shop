@@ -36,16 +36,21 @@ class App extends Component {
           ? this.state.InternInfo.map(listed => (
               <div>
                 <p style={style.item}>
-                  <h2 style={style.h2}>
+                  <h2 style={style.index}>
                     {this.state.InternInfo.indexOf(listed) + 1 + ". "}
+                  </h2>
+                  <h2 style={style.h2}>
                     {listed.company}
                   </h2>
+                  <br/>
+                  <br/>
                   <a href={listed.link} style={style.a} target="_blank">
                     {listed.name}
                   </a>
                   <br />
                   <br />
                   <i style={style.italic}>{listed.location}</i>
+                  <br />
                   <br />
                   {listed.intro}
                 </p>
@@ -69,12 +74,12 @@ class App extends Component {
 const style = {
   title: {
     textAlign: "center",
-    color: "#81BCBC"
+    color: "#fffafa"
   },
   license: {
 fontSize: "1.0em",
     textAlign: "center",
-    color: "#fffafa"
+    color: "#507574"
   },
   div: {
     fontFamily: "Monaco",
@@ -91,7 +96,7 @@ fontSize: "1.0em",
   },
   item: {
     backgroundColor: "#455058",
-    color: "#fffafa",
+    color: "#eee",
     margin: "2em",
     padding: "2em",
     paddingTop: "0.5em",
@@ -101,14 +106,14 @@ fontSize: "1.0em",
     fontSize: "1.3em",
     margin: 0,
     padding: 0,
-    color: "#7CACD5"
+    color: "#9BD0F9"
   },
   inner: {
     borderRadius: "10px"
   },
   loading: {
     fontSize: "2em",
-    color: "#fffafa",
+    color: "#B9C7D5",
     fontFamily: "Monaco",
     textAlign: "center"
   },
@@ -123,6 +128,14 @@ fontSize: "1.0em",
   },
   buttondiv: {
     textAlign: "center"
+  },
+  index: {
+    color: "#9BA7B3",
+    display: "inline"
+  },
+  h2: {
+    display: "inline",
+    color: "#fffafa"
   }
 
 };
