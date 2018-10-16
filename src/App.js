@@ -78,7 +78,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
         )}
         <div style={style.buttondiv}>
           <button id="update" onClick={this.handleClick} style={style.button}>
-            Update me!
+            Update Content
           </button>
         </div>
       </div>
