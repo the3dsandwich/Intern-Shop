@@ -145,5 +145,40 @@
     "intro": "GitHub / languages",
     "location": "Austin, Texas US",
     "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153038&sid=https://www.google.com/"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Software Engineering & Program Management",
+    "intro": "C++, Java or other computer programming languages, algorithms, data structures and other systems architecture",
+    "location": "US",
+    "link": "https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering-Program-Management"
+  },
+  {
+    "company": "Microsoft",
+    "name": "IT & Operations",
+    "intro": "Deployment, configuration and/or support of foundational systems in production or pre-production environments",
+    "location": "US",
+    "link": "https://careers.microsoft.com/us/en/job/473864/Intern-opportunities-for-students-Information-Technology-IT-Operations"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Applied Science",
+    "intro": "Python, Excel, R, MATLAB, AMPL, or SAS.",
+    "location": "US",
+    "link": "https://careers.microsoft.com/us/en/job/473873/Intern-opportunities-for-students-Data-Applied-Sciences"
+  },
+  {
+    "company": "Microsoft",
+    "name": "MS Garage Designer",
+    "intro": "JavaScript, HTML5 and CSS. XAML knowledge is a plus. UI and UX design",
+    "location": "US",
+    "link": "https://careers.microsoft.com/us/en/job/509564/Internship-opportunities-for-students-recent-graduates-Microsoft-Garage-Designer"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Explore Microsoft Internship Program",
+    "intro": "Demonstrate in CS and the software industry",
+    "location": "US",
+    "link": "https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program"
   }
 ]

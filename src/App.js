@@ -42,11 +42,11 @@ const style = {
     fontSize: "1.3em",
     margin: 0,
     padding: 0,
-    color: "#7EA7CA"
+    color: "#7EA7CA",
   },
   inner: {
-    borderRadius: "10px"
-  }
+    borderRadius: "10px",
+  },
 };
 
 export default App;
