@@ -7,12 +7,12 @@ class App extends Component {
       <div style={style.div}>
         {InternInfo.map(listed => (
           <div>
-            <p
-              style={style.item}
-              onClick={() => window.open(listed.link, "_blank")}
-            >
-              <h3 style={style.h3}>{listed.name}</h3>
-              <i>{listed.company}:</i> {listed.intro}
+            <p style={style.item}>
+              <h2 style={style.h2}>{listed.company}</h2>
+              <a href={listed.link} style={style.a} target="_blank">{listed.name}</a>
+              <br/>
+              <br/>
+              <i>{listed.location}:</i> {listed.intro}
             </p>
           </div>
         ))}
@@ -36,17 +36,18 @@ const style = {
     color: "#fffafa",
     margin: "2em",
     padding: "2em",
+    paddingTop: "0.5em",
     marginBottom: "2.5em"
   },
-  h3: {
+  a: {
     fontSize: "1.3em",
     margin: 0,
     padding: 0,
-    color: "#7EA7CA",
+    color: "#7CACD5",
   },
   inner: {
-    borderRadius: "10px",
-  },
+    borderRadius: "10px"
+  }
 };
 
 export default App;
