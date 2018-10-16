@@ -9,8 +9,7 @@ class App extends Component {
           <div>
             <p
               style={style.item}
-              onClick={() => window.open(listed.link, "_blank")}
-              >
+              onClick={() => window.open(listed.link, "_blank")}>
               <h3 style={style.h3}>{listed.name}</h3>
               <i>{listed.company}:</i> {listed.intro}
             </p>
@@ -22,8 +21,14 @@ class App extends Component {
 }
 
 const style = {
-  div: { fontFamily: "sans-serif", backgroundColor: "#2C3339",
-         paddingRight: "15em", paddingLeft: "15em", paddingTop: "3em", margin: "-1em"},
+  div: {
+    fontFamily: "sans-serif",
+    backgroundColor: "#2C3339",
+    paddingRight: "15em",
+    paddingLeft: "15em",
+    paddingTop: "3em",
+    margin: "-1em",
+  },
   item: {
     backgroundColor: "#455058",
     color: "#fffafa",
@@ -35,11 +40,11 @@ const style = {
     fontSize: "1.3em",
     margin: 0,
     padding: 0,
-    color: "#7EA7CA"
+    color: "#7EA7CA",
   },
   inner: {
-    borderRadius: "10px"
-  }
+    borderRadius: "10px",
+  },
 };
 
 export default App;
