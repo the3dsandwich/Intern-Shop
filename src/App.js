@@ -34,13 +34,13 @@ class App extends Component {
           <h2 style={style.license}>
             MIT License
             <br />
-            Copyright (c) 2018 Sann Wei Yeh & Ian Y.E. Pan
+            Copyright (c) 2018 Shann Wei Yeh & Ian Y.E. Pan
           </h2>
         </div>
         <div style={style.flt}>
           This website is written in the hope to facilitate university students when searching for jobs in the US (mostly on the west coast, California), particularly in fields related to Computer Science and Software Engineering.<br/><br/><br/><hr/><br/><br/>
           The MIT License (MIT)<br/><br/>
-Copyright © 2018 Shan Wei Yeh & Ian Y.E. Pan<br/><br/>
+Copyright © 2018 Shann Wei Yeh & Ian Y.E. Pan<br/><br/>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: <br/>
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.<br/><br/>
