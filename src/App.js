@@ -17,7 +17,8 @@ class App extends Component {
               </a>
               <br />
               <br />
-              <i>{listed.location}:</i> {listed.intro}
+              <i style={style.italic}>{listed.location}</i>
+              <br/>{listed.intro}
             </p>
           </div>
         ))}
@@ -28,13 +29,17 @@ class App extends Component {
 
 const style = {
   div: {
-    fontFamily: "sans-serif",
+    fontFamily: "Monaco",
     backgroundColor: "#2C3339",
     paddingRight: "15em",
     paddingLeft: "15em",
     paddingTop: "3em",
     paddingBottom: "3em",
     margin: "-1em"
+  },
+  italic: {
+    color: "#AFEDEB",
+    fontWeight: "bold"
   },
   item: {
     backgroundColor: "#455058",
