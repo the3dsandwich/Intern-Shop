@@ -72,15 +72,15 @@ const style = {
     color: "#fffafa"
   },
   license: {
-fontSize: "1.2em",
+fontSize: "1.0em",
     textAlign: "center",
     color: "#fffafa"
   },
   div: {
     fontFamily: "Monaco",
     backgroundColor: "#2C3339",
-    paddingRight: "15em",
-    paddingLeft: "15em",
+    paddingRight: "9%",
+    paddingLeft: "9%",
     paddingTop: "3em",
     paddingBottom: "3em",
     margin: "-1em"
