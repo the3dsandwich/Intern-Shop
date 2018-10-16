@@ -1,25 +1,24 @@
 const style = {
   title: {
     textAlign: "center",
-    color: "#fffafa"
+    color: "#fffafa",
   },
   license: {
     fontSize: "1.0em",
     textAlign: "center",
-    color: "#507574"
+    color: "#5B6B76"
   },
   div: {
     fontFamily: "Monaco",
     backgroundColor: "#2C3339",
-    paddingRight: "9%",
+    paddingRight: "7%",
     paddingLeft: "9%",
     paddingTop: "3em",
     paddingBottom: "3em",
     margin: "-1em"
   },
   italic: {
-    color: "#AFEDEB",
-    fontWeight: "bold"
+    color: "#97CDCB",
   },
   item: {
     backgroundColor: "#455058",
@@ -27,13 +26,15 @@ const style = {
     margin: "2em",
     padding: "2em",
     paddingTop: "0.5em",
+    marginRight: "25%",
     marginBottom: "2.5em"
   },
   a: {
     fontSize: "1.3em",
     margin: 0,
     padding: 0,
-    color: "#9BD0F9"
+    color: "#9BD0F9",
+    fontWeight: "bold"
   },
   inner: {
     borderRadius: "10px"
@@ -63,6 +64,14 @@ const style = {
   h2: {
     display: "inline",
     color: "#fffafa"
+  },
+  flt: {
+    color: "#dfdfdf",
+    fontFamily: "dejavu sans mono",
+    fontSize: "0.8em",
+    width: "23%",
+    paddingTop: "2%",
+    float: "right"
   }
 };
 
