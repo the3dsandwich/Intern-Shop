@@ -1,0 +1,79 @@
+[
+  {
+    "company": "Intel",
+    "name": "Intel SSD Technical Internship",
+    "intro": "testing computing systems, developing test methods, SSD firmware management and drive performance benchmarking.",
+    "location": "Folsom, CA US",
+    "link": "https://jobs.intel.com/ShowJob/Id/1753717/SSD-Technical-Internship/"
+  },
+  {
+    "company": "Amazon",
+    "name": "Amazon Future Engineer Internship - Summer 2019",
+    "intro": "12 weeks, first and second year CS students, front-end technologies, HTML, CSS, JavaScript",
+    "location": "Seattle, Washington, US",
+    "link": "https://amazon.jobs/en/jobs/722376/amazon-future-engineer-internship-summer-2019"
+  },
+  {
+    "company": "Amazon",
+    "name": "Amazon Software Development Engineer Internship - Summer 2019 (United States)",
+    "intro": "12 weeks, need Java, C, C++",
+    "location": "Seattle, Washington, US",
+    "link": "https://amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states"
+  },
+  {
+    "company": "Apple",
+    "name": "Apple Software Engineer/Data Scientist",
+    "intro": "Python3 / Pandas / Numpy / Matplotlib / Data visualization",
+    "location": "Santa Clara Valley, CA US",
+    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114087321"
+  },
+  {
+    "company": "Apple",
+    "name": "Apple Web Dev / Software Engineering Intern",
+    "intro": "HTML / CSS / JS; Python or Ruby or Perl or PHP",
+    "location": "Santa Clara Valley, CA US",
+    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191467"
+  },
+  {
+    "company": "Apple",
+    "name": "Apple Frameworks / Software Engineering Intern",
+    "intro": "C / C++ / Obj-C; Linux / OSX; OpenCL, OpenGL, GPU",
+    "location": "Santa Clara Valley, CA US",
+    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191093"
+  },
+  {
+    "company": "Apple",
+    "name": "Apple UI Applications / Software Engineering Intern",
+    "intro": "C / C++ / Obj-C / Swift; Xcode, APIs in Cocoa",
+    "location": "Santa Clara Valley, CA US",
+    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191234"
+  },
+  {
+    "company": "Facebook",
+    "name": "Facebook Network Engineer, Intern",
+    "intro": "Solve the challenges of large-scale network management and design with a software approach, BGP / ISIS / UNIX / TCP/IP",
+    "location": "Menlo Park, CA, Seattle, WA, Denver, CO",
+    "link": "https://www.facebook.com/careers/jobs/250631622386647/"
+  },
+  {
+    "company": "Facebook",
+    "name": "Facebook Data Engineer, Analytics, Intern",
+    "intro": "big data, SQL",
+    "location": "Menlo Park, CA, Seattle, WA",
+    "link": "https://www.facebook.com/careers/jobs/432701790541877/"
+  },
+  {
+    "company": "Facebook",
+    "name": "Facebook Product Designer, Intern/Co-op",
+    "intro": "Product design, interaction design, and visual design of next feature of News Feed / Link to portfolio featuring examples of interaction design work",
+    "location": "Menlo Park, CA, New York, NY, Seattle, WA",
+    "link": "https://www.facebook.com/careers/jobs/253152082140948/"
+  },
+  {
+    "company": "Facebook",
+    "name": "Facebook Production Engineer, Intern/Co-Op",
+    "intro": "Back-end, front-end, everything",
+    "location": "Menlo Park, CA, Seattle, WA",
+    "link": "https://www.facebook.com/careers/jobs/1973451922677161/"
+  }
+]
