@@ -1,27 +1,54 @@
 import React, { Component } from "react";
-import InternInfo from "./InternshipCompanies.json";
+import InternToBePushed from "./InternshipCompanies.json";
+import firebase from "firebase";
+import firebaseConfig from "./key/key";
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { InternInfo: null };
+    this.database = firebase.initializeApp(firebaseConfig).database();
+    this.database
+      .ref("/")
+      .once("value")
+      .then(snap => this.setState({ InternInfo: snap.val() }));
+    this.database
+      .ref("/")
+      .on("value", snap => this.setState({ InternInfo: snap.val() }));
+  }
+
+  handleClick = e => {
+    if (e.target.id === "update") {
+      this.database.ref("/").set(InternToBePushed);
+    }
+  };
+
   render() {
     return (
       <div style={style.div}>
-        {InternInfo.map(listed => (
-          <div>
-            <p style={style.item}>
-              <h2 style={style.h2}>
-                {InternInfo.indexOf(listed) + 1 + ". "}
-                {listed.company}
-              </h2>
-              <a href={listed.link} style={style.a} target="_blank">
-                {listed.name}
-              </a>
-              <br />
-              <br />
-              <i style={style.italic}>{listed.location}</i>
-              <br/>{listed.intro}
-            </p>
-          </div>
-        ))}
+        <button id="update" onClick={this.handleClick}>
+          update intern infos
+        </button>
+        {this.state.InternInfo
+          ? this.state.InternInfo.map(listed => (
+              <div>
+                <p style={style.item}>
+                  <h2 style={style.h2}>
+                    {this.state.InternInfo.indexOf(listed) + 1 + ". "}
+                    {listed.company}
+                  </h2>
+                  <a href={listed.link} style={style.a} target="_blank">
+                    {listed.name}
+                  </a>
+                  <br />
+                  <br />
+                  <i style={style.italic}>{listed.location}</i>
+                  <br />
+                  {listed.intro}
+                </p>
+              </div>
+            ))
+          : null}
       </div>
     );
   }
