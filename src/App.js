@@ -26,9 +26,12 @@ class App extends Component {
   render() {
     return (
       <div style={style.div}>
-        <button id="update" onClick={this.handleClick}>
-          update intern infos
-        </button>
+        <div>
+          <h1 style={style.title}>InternShop 2018-2019</h1>
+        </div>
+        <div>
+          <h2 style={style.license}>Copyright 2018 (c) under MIT<br/>Shann Wei Yeh & Ian Y.E. Pan</h2>
+        </div>
         {this.state.InternInfo
           ? this.state.InternInfo.map(listed => (
               <div>
@@ -48,13 +51,31 @@ class App extends Component {
                 </p>
               </div>
             ))
-          : null}
+          :
+         <div>
+         <h1 style={style.loading}>Loading... please wait.</h1>
+         </div>
+        }
+        <div style={style.buttondiv}>
+        <button id="update" onClick={this.handleClick} style={style.button}>
+          Update me!
+        </button>
+        </div>
       </div>
     );
   }
 }
 
 const style = {
+  title: {
+    textAlign: "center",
+    color: "#fffafa"
+  },
+  license: {
+fontSize: "1.2em",
+    textAlign: "center",
+    color: "#fffafa"
+  },
   div: {
     fontFamily: "Monaco",
     backgroundColor: "#2C3339",
@@ -84,7 +105,26 @@ const style = {
   },
   inner: {
     borderRadius: "10px"
+  },
+  loading: {
+    fontSize: "2em",
+    color: "#fffafa",
+    fontFamily: "Monaco",
+    textAlign: "center"
+  },
+  button: {
+    borderRadius: "0.3em",
+    borderWidth: "0.1em",
+    borderColor: "#7EAB93",
+    fontSize: "1.5em",
+    backgroundColor: "#1e1e1e",
+    color: "#fffafa",
+    fontFamily: "Monaco",
+  },
+  buttondiv: {
+    textAlign: "center"
   }
+
 };
 
 export default App;
