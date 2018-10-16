@@ -69,7 +69,7 @@ class App extends Component {
 const style = {
   title: {
     textAlign: "center",
-    color: "#fffafa"
+    color: "#81BCBC"
   },
   license: {
 fontSize: "1.0em",
