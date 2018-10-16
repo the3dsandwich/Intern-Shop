@@ -1,4 +1,4 @@
-var firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyC2KvpT5d2rXJC5A6hNe1FOUCiUUog3XOo",
   authDomain: "intern-shop.firebaseapp.com",
   databaseURL: "https://intern-shop.firebaseio.com",
