@@ -9,7 +9,8 @@ class App extends Component {
           <div>
             <p
               style={style.item}
-              onClick={() => window.open(listed.link, "_blank")}>
+              onClick={() => window.open(listed.link, "_blank")}
+            >
               <h3 style={style.h3}>{listed.name}</h3>
               <i>{listed.company}:</i> {listed.intro}
             </p>
@@ -27,7 +28,8 @@ const style = {
     paddingRight: "15em",
     paddingLeft: "15em",
     paddingTop: "3em",
-    margin: "-1em",
+    paddingBottom: "3em",
+    margin: "-1em"
   },
   item: {
     backgroundColor: "#455058",
