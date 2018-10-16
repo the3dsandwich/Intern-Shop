@@ -78,31 +78,73 @@
   },
   {
     "company": "iD Tech Camp",
-    "name": "iDTech Director",
-    "intro": "Directors are the face of iD Tech to parents, students, university officials, and staff at camp. They create a FUN, SAFE environment while ensuring high-level instruction for all students. Must be an organized, experienced decision maker. ",
-    "location": "multiple",
-    "link": "https://www.idtech.com/jobs/summer-jobs"
-  },
-  {
-    "company": "iD Tech Camp",
     "name": "iDTech Instructor",
-    "intro": "As role models for our students, Instructors are knowledgeable, high-energy, and passionate about technology. Through teaching, leading activities, and building relationships, iD Tech Instructors inspire the next generation of innovators.",
-    "location": "multiple",
+    "intro": "Pediatric & Adult CPR/First Aid/AED certifications / Previous camp or managerial experience",
+    "location": "Multiple",
     "link": "https://www.idtech.com/jobs/summer-jobs"
   },
   {
     "company": "iD Tech Camp",
     "name": "iDTech Health & Safety Coordinator",
-    "intro": "The well-being of our students is our highest priority. Health and Safety Coordinators personify this value by administering meds, assessing risk, and performing first aid. A willingness to help with activities and engage students is also a must.",
-    "location": "multiple",
+    "intro": "Pediatric & Adult CPR/First Aid/AED certifications / Previous camp or managerial experience / 21+",
+    "location": "Multiple",
     "link": "https://www.idtech.com/jobs/summer-jobs"
   },
   {
-    "company": "Microsoft",
-    "name": "Software Engineering & Program Management",
-    "intro": "C++, Java or other computer programming languages, algorithms, data structures and other systems architecture",
-    "location": "US",
-    "link": "https://careers.microsoft.com/us/en/job/473035/Internship-opportunities-for-students-Software-Engineering-Program-Management"
+    "company": "EA",
+    "name": "EA Summer Intern: Mobile Analyst (BS/MS)",
+    "intro": "experience of R, R Markdown and R-Shiny a big plus / data analysis",
+    "location": "Redwood City",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152541&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA UX Designer Intern",
+    "intro": "Photoshop, Illustrator or similar software",
+    "location": "Los Angeles - Pasadena",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153084&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA Game Design Intern",
+    "intro": "Excel, Word and Visio",
+    "location": "Melbourne, Victoria AU",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=151369&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA Intern: Services & Web Application Engineer - (BS or MS)",
+    "intro": "NodeJS / REST / AngularJS / Agile/Scrum / DevOps",
+    "location": "Austin, Texas US",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152551&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA Intern: Systems Software Engineer - Sports NBA (BS or MS)",
+    "intro": "C++ is a must have. / C# / Python / multithreaded processing / client-server architecture / object oriented programming",
+    "location": "Orlando, Florida US",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152410&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA Intern: Sport Mobile - Software Engineer (BS or MS Degree)",
+    "intro": "C++ is a must have. / C# / Python / multithreaded processing / client-server architecture / object oriented programming",
+    "location": "Orlando, Florida US",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152412&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA Intern: Sports - Graphics/Rendering Engineering Intern (BS/MS Degree)",
+    "intro": "12 week, year 2 preferred",
+    "location": "Orlando, Florida US",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152828&sid=https://www.google.com/"
+  },
+  {
+    "company": "EA",
+    "name": "EA Summer: Software Engineering Intern (BS/MS)",
+    "intro": "GitHub / languages",
+    "location": "Austin, Texas US",
+    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153038&sid=https://www.google.com/"
   },
   {
     "company": "Microsoft",
