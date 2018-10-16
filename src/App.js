@@ -8,10 +8,15 @@ class App extends Component {
         {InternInfo.map(listed => (
           <div>
             <p style={style.item}>
-              <h2 style={style.h2}>{listed.company}</h2>
-              <a href={listed.link} style={style.a} target="_blank">{listed.name}</a>
-              <br/>
-              <br/>
+              <h2 style={style.h2}>
+                {InternInfo.indexOf(listed) + 1 + ". "}
+                {listed.company}
+              </h2>
+              <a href={listed.link} style={style.a} target="_blank">
+                {listed.name}
+              </a>
+              <br />
+              <br />
               <i>{listed.location}:</i> {listed.intro}
             </p>
           </div>
@@ -43,7 +48,7 @@ const style = {
     fontSize: "1.3em",
     margin: 0,
     padding: 0,
-    color: "#7CACD5",
+    color: "#7CACD5"
   },
   inner: {
     borderRadius: "10px"
