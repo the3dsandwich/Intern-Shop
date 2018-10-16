@@ -38,7 +38,7 @@ class App extends Component {
           </h2>
         </div>
         <div style={style.flt}>
-          This website is written in the hope to facilitate university students when searching for jobs in the US (mostly on the west coast, California), particularly in fields related to Computer Science, Software Engineering.<br/><br/><br/><hr/><br/><br/>
+          This website is written in the hope to facilitate university students when searching for jobs in the US (mostly on the west coast, California), particularly in fields related to Computer Science and Software Engineering.<br/><br/><br/><hr/><br/><br/>
           The MIT License (MIT)<br/><br/>
 Copyright © 2018 Shan Wei Yeh & Ian Y.E. Pan<br/><br/>
 
@@ -72,6 +72,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
         ) : (
           <div>
             <h1 style={style.loading}>Loading... please wait.</h1>
+            <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br/>
           </div>
         )}
         <div style={style.buttondiv}>
