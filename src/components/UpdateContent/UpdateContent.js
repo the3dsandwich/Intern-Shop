@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import InternToBePushed from "./InternshipCompanies.json";
 
-class App extends Component {
+export default class UpdateContent extends Component {
   constructor(props) {
     super(props);
     this.database = this.props.database;
@@ -15,28 +15,27 @@ class App extends Component {
 
   render() {
     return (
-      <div style={style.buttondiv}>
-        <button id="update" onClick={this.handleClick} style={style.button}>
+      <div
+        style={{
+          textAlign: "center"
+        }}
+      >
+        <button
+          style={{
+            borderRadius: "0.3em",
+            borderWidth: "0.1em",
+            borderColor: "#7EAB93",
+            fontSize: "1.5em",
+            backgroundColor: "#1e1e1e",
+            color: "#fffafa",
+            fontFamily: "Monaco"
+          }}
+          id="update"
+          onClick={this.handleClick}
+        >
           Update Content
         </button>
       </div>
     );
   }
 }
-
-const style = {
-  button: {
-    borderRadius: "0.3em",
-    borderWidth: "0.1em",
-    borderColor: "#7EAB93",
-    fontSize: "1.5em",
-    backgroundColor: "#1e1e1e",
-    color: "#fffafa",
-    fontFamily: "Monaco"
-  },
-  buttondiv: {
-    textAlign: "center"
-  }
-};
-
-export default App;

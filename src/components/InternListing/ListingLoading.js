@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class LoadingScreen extends Component {
+export default class ListingLoading extends Component {
   render() {
     return (
       <div>
