@@ -6,7 +6,10 @@ const style = {
     paddingLeft: "9%",
     paddingTop: "3em",
     paddingBottom: "3em",
-    margin: "-1em"
+    position: "absolute",
+    top: 0,
+    left: 0,
+    width: "84%"
   },
   inner: {
     borderRadius: "10px"
