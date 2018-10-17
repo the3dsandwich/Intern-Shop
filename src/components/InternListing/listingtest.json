@@ -1,177 +1,181 @@
 [
-  {
-    "company": "Intel",
-    "name": "SSD Technical Internship",
-    "intro": "Testing computing systems, developing test methods, SSD firmware management and drive performance benchmarking.",
-    "location": "Folsom, CA US",
-    "link": "https://jobs.intel.com/ShowJob/Id/1753717/SSD-Technical-Internship/"
-  },
-  {
-    "company": "Amazon",
-    "name": "Future Engineer Internship",
-    "intro": "12 weeks, first and second year CS students, front-end technologies, HTML, CSS, JavaScript",
-    "location": "Seattle, Washington, US",
-    "link": "https://amazon.jobs/en/jobs/722376/amazon-future-engineer-internship-summer-2019"
-  },
-  {
-    "company": "Amazon",
-    "name": "Software Development Engineer Internship",
-    "intro": "12 weeks, need Java, C, C++",
-    "location": "Seattle, Washington, US",
-    "link": "https://amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states"
-  },
-  {
-    "company": "Apple",
-    "name": "Software Engineer/Data Scientist",
-    "intro": "Python3 / Pandas / Numpy / Matplotlib / Data visualization",
-    "location": "Santa Clara Valley, CA US",
-    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114087321"
-  },
-  {
-    "company": "Apple",
-    "name": "Web Dev / Software Engineering Intern",
-    "intro": "HTML / CSS / JS; Python or Ruby or Perl or PHP",
-    "location": "Santa Clara Valley, CA US",
-    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191467"
-  },
-  {
-    "company": "Apple",
-    "name": "Frameworks / Software Engineering Intern",
-    "intro": "C / C++ / Obj-C; Linux / OSX; OpenCL, OpenGL, GPU",
-    "location": "Santa Clara Valley, CA US",
-    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191093"
-  },
-  {
-    "company": "Apple",
-    "name": "UI Applications / Software Engineering Intern",
-    "intro": "C / C++ / Obj-C / Swift; Xcode, APIs in Cocoa",
-    "location": "Santa Clara Valley, CA US",
-    "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191234"
-  },
-  {
-    "company": "Facebook",
-    "name": "Network Engineer, Intern",
-    "intro": "Solve the challenges of large-scale network management and design with a software approach, BGP / ISIS / UNIX / TCP/IP",
-    "location": "Menlo Park, CA, Seattle, WA, Denver, CO",
-    "link": "https://www.facebook.com/careers/jobs/250631622386647/"
-  },
-  {
-    "company": "Facebook",
-    "name": "Data Engineer, Analytics, Intern",
-    "intro": "big data, SQL",
-    "location": "Menlo Park, CA, Seattle, WA",
-    "link": "https://www.facebook.com/careers/jobs/432701790541877/"
-  },
-  {
-    "company": "Facebook",
-    "name": "Product Designer, Intern/Co-op",
-    "intro": "Product design, interaction design, and visual design of next feature of News Feed / Link to portfolio featuring examples of interaction design work",
-    "location": "Menlo Park, CA, New York, NY, Seattle, WA",
-    "link": "https://www.facebook.com/careers/jobs/253152082140948/"
-  },
-  {
-    "company": "Facebook",
-    "name": "Production Engineer, Intern/Co-Op",
-    "intro": "Back-end, front-end, everything",
-    "location": "Menlo Park, CA, Seattle, WA",
-    "link": "https://www.facebook.com/careers/jobs/1973451922677161/"
-  },
-  {
-    "company": "iD Tech Camp",
-    "name": "Instructor",
-    "intro": "Pediatric & Adult CPR/First Aid/AED certifications / Previous camp or managerial experience",
-    "location": "Multiple",
-    "link": "https://www.idtech.com/jobs/summer-jobs"
-  },
-  {
-    "company": "iD Tech Camp",
-    "name": "Health & Safety Coordinator",
-    "intro": "Pediatric & Adult CPR/First Aid/AED certifications / Previous camp or managerial experience / 21+",
-    "location": "Multiple",
-    "link": "https://www.idtech.com/jobs/summer-jobs"
-  },
-  {
-    "company": "EA",
-    "name": "Mobile Analyst (BS/MS)",
-    "intro": "experience of R, R Markdown and R-Shiny a big plus / data analysis",
-    "location": "Redwood City",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152541&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "UX Designer Intern",
-    "intro": "Photoshop, Illustrator or similar software",
-    "location": "Los Angeles - Pasadena",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153084&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "Game Design Intern",
-    "intro": "Excel, Word and Visio",
-    "location": "Melbourne, Victoria AU",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=151369&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "Intern: Services & Web Application Engineer - (BS or MS)",
-    "intro": "NodeJS / REST / AngularJS / Agile/Scrum / DevOps",
-    "location": "Austin, Texas US",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152551&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "Intern: Systems Software Engineer - Sports NBA (BS or MS)",
-    "intro": "C++ is a must have. / C# / Python / multithreaded processing / client-server architecture / object oriented programming",
-    "location": "Orlando, Florida US",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152410&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "Intern: Sport Mobile - Software Engineer (BS or MS Degree)",
-    "intro": "C++ is a must have. / C# / Python / multithreaded processing / client-server architecture / object oriented programming",
-    "location": "Orlando, Florida US",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152412&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "Intern: Sports - Graphics/Rendering Engineering Intern (BS/MS Degree)",
-    "intro": "12 week, year 2 preferred",
-    "location": "Orlando, Florida US",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152828&sid=https://www.google.com/"
-  },
-  {
-    "company": "EA",
-    "name": "Software Engineering Intern (BS/MS)",
-    "intro": "GitHub / languages",
-    "location": "Austin, Texas US",
-    "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153038&sid=https://www.google.com/"
-  },
-  {
-    "company": "Microsoft",
-    "name": "IT & Operations",
-    "intro": "Deployment, configuration and/or support of foundational systems in production or pre-production environments",
-    "location": "US",
-    "link": "https://careers.microsoft.com/us/en/job/473864/Intern-opportunities-for-students-Information-Technology-IT-Operations"
-  },
-  {
-    "company": "Microsoft",
-    "name": "Applied Science",
-    "intro": "Python, Excel, R, MATLAB, AMPL, or SAS.",
-    "location": "US",
-    "link": "https://careers.microsoft.com/us/en/job/473873/Intern-opportunities-for-students-Data-Applied-Sciences"
-  },
-  {
-    "company": "Microsoft",
-    "name": "MS Garage Designer",
-    "intro": "JavaScript, HTML5 and CSS. XAML knowledge is a plus. UI and UX design",
-    "location": "US",
-    "link": "https://careers.microsoft.com/us/en/job/509564/Internship-opportunities-for-students-recent-graduates-Microsoft-Garage-Designer"
-  },
-  {
-    "company": "Microsoft",
-    "name": "Explore Microsoft Internship Program",
-    "intro": "Demonstrate in CS and the software industry",
-    "location": "US",
-    "link": "https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program"
-  }
+  [
+    "Intel",
+    [
+      {
+        "name": "SSD Technical Internship",
+        "intro": "Testing computing systems, developing test methods, SSD firmware management and drive performance benchmarking.",
+        "location": "Folsom, CA US",
+        "link": "https://jobs.intel.com/ShowJob/Id/1753717/SSD-Technical-Internship/"
+      }
+    ]
+  ],
+  [
+    "Amazon",
+    [
+      {
+        "name": "Future Engineer Internship",
+        "intro": "12 weeks, first and second year CS students, front-end technologies, HTML, CSS, JavaScript",
+        "location": "Seattle, Washington, US",
+        "link": "https://amazon.jobs/en/jobs/722376/amazon-future-engineer-internship-summer-2019"
+      },
+      {
+        "name": "Software Development Engineer Internship",
+        "intro": "12 weeks, need Java, C, C++",
+        "location": "Seattle, Washington, US",
+        "link": "https://amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states"
+      }
+    ]
+  ],
+  [
+    "Apple",
+    [
+      {
+        "name": "Web Dev / Software Engineering Intern",
+        "intro": "HTML / CSS / JS; Python or Ruby or Perl or PHP",
+        "location": "Santa Clara Valley, CA US",
+        "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191467"
+      },
+      {
+        "name": "Frameworks / Software Engineering Intern",
+        "intro": "C / C++ / Obj-C; Linux / OSX; OpenCL, OpenGL, GPU",
+        "location": "Santa Clara Valley, CA US",
+        "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191093"
+      },
+      {
+        "name": "UI Applications / Software Engineering Intern",
+        "intro": "C / C++ / Obj-C / Swift; Xcode, APIs in Cocoa",
+        "location": "Santa Clara Valley, CA US",
+        "link": "https://jobs.apple.com/us/search?jobFunction=CGINT#businessline&t=0&sb=req_open_dt&so=1&j=CGINT&lo=0*USA&pN=0&openJobId=114191234"
+      }
+    ]
+  ],
+  [
+    "Facebook",
+    [
+      {
+        "name": "Network Engineer, Intern",
+        "intro": "Solve the challenges of large-scale network management and design with a software approach, BGP / ISIS / UNIX / TCP/IP",
+        "location": "Menlo Park, CA, Seattle, WA, Denver, CO",
+        "link": "https://www.facebook.com/careers/jobs/250631622386647/"
+      },
+      {
+        "name": "Data Engineer, Analytics, Intern",
+        "intro": "big data, SQL",
+        "location": "Menlo Park, CA, Seattle, WA",
+        "link": "https://www.facebook.com/careers/jobs/432701790541877/"
+      },
+      {
+        "name": "Product Designer, Intern/Co-op",
+        "intro": "Product design, interaction design, and visual design of next feature of News Feed / Link to portfolio featuring examples of interaction design work",
+        "location": "Menlo Park, CA, New York, NY, Seattle, WA",
+        "link": "https://www.facebook.com/careers/jobs/253152082140948/"
+      },
+      {
+        "name": "Production Engineer, Intern/Co-Op",
+        "intro": "Back-end, front-end, everything",
+        "location": "Menlo Park, CA, Seattle, WA",
+        "link": "https://www.facebook.com/careers/jobs/1973451922677161/"
+      }
+    ]
+  ],
+  [
+    "iD Tech Camp",
+    [
+      {
+        "name": "Instructor",
+        "intro": "Pediatric & Adult CPR/First Aid/AED certifications / Previous camp or managerial experience",
+        "location": "Multiple",
+        "link": "https://www.idtech.com/jobs/summer-jobs"
+      },
+      {
+        "name": "Health & Safety Coordinator",
+        "intro": "Pediatric & Adult CPR/First Aid/AED certifications / Previous camp or managerial experience / 21+",
+        "location": "Multiple",
+        "link": "https://www.idtech.com/jobs/summer-jobs"
+      }
+    ]
+  ],
+  [
+    "EA",
+    [
+      {
+        "name": "Mobile Analyst (BS/MS)",
+        "intro": "experience of R, R Markdown and R-Shiny a big plus / data analysis",
+        "location": "Redwood City",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152541&sid=https://www.google.com/"
+      },
+      {
+        "name": "UX Designer Intern",
+        "intro": "Photoshop, Illustrator or similar software",
+        "location": "Los Angeles - Pasadena",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153084&sid=https://www.google.com/"
+      },
+      {
+        "name": "Game Design Intern",
+        "intro": "Excel, Word and Visio",
+        "location": "Melbourne, Victoria AU",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=151369&sid=https://www.google.com/"
+      },
+      {
+        "name": "Intern: Services & Web Application Engineer - (BS or MS)",
+        "intro": "NodeJS / REST / AngularJS / Agile/Scrum / DevOps",
+        "location": "Austin, Texas US",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152551&sid=https://www.google.com/"
+      },
+      {
+        "name": "Intern: Systems Software Engineer - Sports NBA (BS or MS)",
+        "intro": "C++ is a must have. / C# / Python / multithreaded processing / client-server architecture / object oriented programming",
+        "location": "Orlando, Florida US",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152410&sid=https://www.google.com/"
+      },
+      {
+        "name": "Intern: Sport Mobile - Software Engineer (BS or MS Degree)",
+        "intro": "C++ is a must have. / C# / Python / multithreaded processing / client-server architecture / object oriented programming",
+        "location": "Orlando, Florida US",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152412&sid=https://www.google.com/"
+      },
+      {
+        "name": "Intern: Sports - Graphics/Rendering Engineering Intern (BS/MS Degree)",
+        "intro": "12 week, year 2 preferred",
+        "location": "Orlando, Florida US",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=152828&sid=https://www.google.com/"
+      },
+      {
+        "name": "Software Engineering Intern (BS/MS)",
+        "intro": "GitHub / languages",
+        "location": "Austin, Texas US",
+        "link": "https://ea.gr8people.com/index.gp?method=cappportal.showJob&layoutid=2092&inp1541=&opportunityid=153038&sid=https://www.google.com/"
+      }
+    ]
+  ],
+  [
+    "Microsoft",
+    [
+      {
+        "name": "IT & Operations",
+        "intro": "Deployment, configuration and/or support of foundational systems in production or pre-production environments",
+        "location": "US",
+        "link": "https://careers.microsoft.com/us/en/job/473864/Intern-opportunities-for-students-Information-Technology-IT-Operations"
+      },
+      {
+        "name": "Applied Science",
+        "intro": "Python, Excel, R, MATLAB, AMPL, or SAS.",
+        "location": "US",
+        "link": "https://careers.microsoft.com/us/en/job/473873/Intern-opportunities-for-students-Data-Applied-Sciences"
+      },
+      {
+        "name": "MS Garage Designer",
+        "intro": "JavaScript, HTML5 and CSS. XAML knowledge is a plus. UI and UX design",
+        "location": "US",
+        "link": "https://careers.microsoft.com/us/en/job/509564/Internship-opportunities-for-students-recent-graduates-Microsoft-Garage-Designer"
+      },
+      {
+        "name": "Explore Microsoft Internship Program",
+        "intro": "Demonstrate in CS and the software industry",
+        "location": "US",
+        "link": "https://careers.microsoft.com/us/en/job/475698/Internship-Opportunities-for-Students-Explore-Microsoft-Internship-Program"
+      }
+    ]
+  ]
 ]

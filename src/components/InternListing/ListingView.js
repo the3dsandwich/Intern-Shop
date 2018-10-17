@@ -4,7 +4,7 @@ export default class Listing extends Component {
   render() {
     return (
       <div>
-        <p style={style.item}>
+        <div style={style.item}>
           <h2 style={style.index}>
             {this.props.InternInfo.indexOf(this.props.listed) + 1 + ". "}
           </h2>
@@ -17,7 +17,7 @@ export default class Listing extends Component {
           <br />
           <br />
           {this.props.listed.intro}
-        </p>
+        </div>
       </div>
     );
   }
