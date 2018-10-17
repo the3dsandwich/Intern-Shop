@@ -1,6 +1,10 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# keys
 /src/key
+
+# firebase hosting cache file
+/.firebase
 
 # dependencies
 /node_modules
