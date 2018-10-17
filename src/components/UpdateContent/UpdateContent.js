@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import firebase from "firebase";
 import InternToBePushed from "./InternshipCompanies.json";
 
 class App extends Component {
