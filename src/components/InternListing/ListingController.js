@@ -14,7 +14,6 @@ let updateDatabase = snap => {
     });
 
     database.reverse().pop();
-    console.log(database.sort());
     return database.sort();
   }
 };

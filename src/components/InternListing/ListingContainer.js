@@ -22,7 +22,7 @@ export default class ListingContainer extends Component {
   render() {
     if (this.state.InternInfo) {
       return this.state.InternInfo.map(company => (
-        <CompanyContainer company={company} />
+        <CompanyContainer key={company} company={company} />
       ));
     } else {
       return <ListingLoading />;
